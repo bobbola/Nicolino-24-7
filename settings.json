@@ -1,15 +1,15 @@
 {
-  "name": "AFK Bot",
+  "name": "Niciola Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Niciola247Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "vitainciola.seedloaf.gg",
     "port": 25565,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,8 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "Ciao tizi!",
+        "Bib Bob Bub",
+        "Tengo il server acceso!",
+        "Nico è Sculatissimo!"
       ]
     },
     "chat-log": true,
